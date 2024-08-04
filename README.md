@@ -45,7 +45,7 @@
   <a href="https://discord.com/invite/Tt67T43Y" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="www.linkedin.com/in/temóteo-santos-154834236" target="_blank">
+  <a href="https://linkedin.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -54,10 +54,10 @@
 
 <br clear="both">
 
-<img src="https://i.gifer.com/KbVT.gif" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sabiopescador/sabiopescador/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">linkedin.com/in/temóteo-santos-154834236<br>- linkedin bugado ^, mas ta valendo<br>- coloco meus códiogos na plataforma, estou estudando para me tornar um analista de dados<br>- e m dia atuar como analista forense na área de hacking</p>
 
 ###
