@@ -10,13 +10,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sabiopescador&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiopescador&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 ###
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabiopescador/sabiopescador/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabiopescador/sabiopescador/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sabiopescador/sabiopescador/output/github-contribution-grid-snake.svg">
 </picture>
+
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
   <img width="12" />
@@ -34,7 +38,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="35" alt="arduino logo"  />
 </div>
+
 ###
+
 <br clear="both">
 
 
@@ -42,7 +48,9 @@
 ![3nRA](https://github.com/user-attachments/assets/d738acab-c0d4-414b-baa8-f6a383a769ad)
 ![WiCJ](https://github.com/user-attachments/assets/6b0c4704-d525-49e7-ba6e-1e7f302fb17b)
 ![ZSjA](https://github.com/user-attachments/assets/7bd34895-6788-4148-b28a-75eecfee69af)
+
 ###
+
 <div align="left">
   <a href="https://www.instagram.com/santos_temoteo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f9844a&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -57,9 +65,13 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
 ###
+
 <br clear="both">
+
 ###
+
 <div style="text-align: justify;">
   <p align="justify">- Eu me chamo Temóteo Santos, tenho 27 anos e um grande sonho de me tornar um programador. Sonho este, que venho postergando desde que conheci algoritmos lá no meu primeiro emprego de jovem aprendiz nos correios em meados de 2017, onde assisti um video do professor Guanabara sobre portugol... o que me fez da alguns passos para trás na minha jornada para me tornar um programador devido a procrastinação e a inconstancia nos estudos... Porém hoje, 04/08/2024 darei continuidade a essa saga! estudarei constantemende, nem que um pouco a cada dia, colocarei os códigos nessa plataforma, irei me aprofundar nas tecnologias e integrações entre ambas; e muito cedo me tornarei um Analista de dados!<br>- Acompanhem caros amigos! a essa incrível jornada da minha carreira!<br></p>
 </div>
