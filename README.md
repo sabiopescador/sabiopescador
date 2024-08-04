@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.gifer.com/4OKl.gif"  />
+<img align="right" height="150" src="https://discord.com/channels/1269698429999779912/1269698429999779915/1269738330510327871"  />
 
 ###
 
@@ -58,6 +58,6 @@
 
 ###
 
-<p align="left">linkedin.com/in/temóteo-santos-154834236<br>- linkedin bugado ^, mas ta valendo<br>- coloco meus códiogos na plataforma, estou estudando para me tornar um analista de dados<br></p>
+<p align="left">linkedin.com/in/temóteo-santos-154834236<br>- linkedin bugado ^, mas ta valendo<br>- coloco meus códiogos na plataforma, estou estudando para me tornar um analista de dados<br>- e m dia atuar como analista forense na área de hacking</p>
 
 ###
