@@ -31,11 +31,7 @@
 
 <br clear="both">
 
-![4OKl](https://github.com/user-attachments/assets/686432b3-37ac-48d1-9ee1-3ae1fa426698)
-
-
-<img align="right" height="150" src="![4OKl](https://github.com/user-attachments/assets/20f9a9d6-7ee7-4719-83d1-a859c52adfd3)
-"  />
+![bloggif_66afd8bf78b30](https://github.com/user-attachments/assets/99b3a767-3d77-4705-b7ef-4fdb8eb8e3ce)
 
 ###
 
