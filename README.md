@@ -1,10 +1,9 @@
-<h2 align="left">Olá, sou o Teo:<br>- _made_in_bahia.br<br>- _programador_junior.exe<br>- _futudo_analista_de_dados.py<br>- _trying_to_hacking_too.bat</h2>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabiopescador&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiopescador&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabiopescador&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiopescador&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -73,3 +72,5 @@
 <p align="left">- Eu me chamo Temóteo Santos, tenho 27 anos e um grande sonho de me tornar um programador. Sonho este, que venho postergando desde que conheci algoritmos lá no meu primeiro emprego de jovem aprendiz nos correios em meados de 2017, onde assisti um video do professor Guanabara sobre portugol... o que me fez da alguns passos para trás na minha jornada para me tornar um programador devido a procrastinação e a inconstancia nos estudos... Porém hoje, 04/08/2024 darei continuidade a essa saga! estudarei constantemende, nem que um pouco a cada dia, colocarei os códigos nessa plataforma, irei me aprofundar nas tecnologias e integrações entre ambas; e muito cedo me tornarei um Analista de dados!<br>- Acompanhem caros amigos! a essa incrível jornada da minha carreira!<br></p>
 
 ###
+
+<h2 align="left">Olá, sou o Teo:<br>- _made_in_bahia.br<br>- _programador_junior.exe<br>- _futudo_analista_de_dados.py<br>- _trying_to_hacking_too.bat</h2>
