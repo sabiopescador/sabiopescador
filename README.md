@@ -31,7 +31,8 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://discord.com/channels/1269698429999779912/1269698429999779915/1269738330510327871"  />
+<img align="right" height="150" src="![4OKl](https://github.com/user-attachments/assets/20f9a9d6-7ee7-4719-83d1-a859c52adfd3)
+"  />
 
 ###
 
