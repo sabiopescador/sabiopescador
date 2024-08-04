@@ -58,6 +58,6 @@
 
 ###
 
-<p align="left">linkedin.com/in/temóteo-santos-154834236<br>- linkedin bugado ^, mas ta valendo<br>- coloco meus códiogos na plataforma, estou estudando para me tornar um analista de dados<br>- e m dia atuar como analista forense na área de hacking</p>
+<p align="left">linkedin.com/in/temóteo-santos-154834236<br>- linkedin bugado ^, mas ta valendo<br>- coloco meus códiogos na plataforma, estou estudando para me tornar um analista de dados<br></p>
 
 ###
