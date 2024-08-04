@@ -3,9 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ff8800&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+BEM+VINDOS+VINDOS+MEU+PERFIL!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
-###
+
 <img align="center" alt="" src="./src/header-gif.gif">
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabiopescador&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
