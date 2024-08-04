@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-![bloggif_66afd8bf78b30](https://github.com/user-attachments/assets/99b3a767-3d77-4705-b7ef-4fdb8eb8e3ce)
+<img aligh="right" src="![bloggif_66afd8bf78b30](https://github.com/user-attachments/assets/99b3a767-3d77-4705-b7ef-4fdb8eb8e3ce)"/>
 
 ###
 
