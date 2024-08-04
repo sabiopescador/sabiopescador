@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sabiopescador/sabiopescador/output/snake.svg" alt="Snake animation" />
+<img src="https://i.gifer.com/KbVT.gif" alt="Snake animation" />
 
 ###
 
