@@ -75,6 +75,8 @@
 <div style="text-align: justify;">
   <p align="justify">- Eu me chamo Temóteo Santos, tenho 27 anos e um grande sonho de me tornar um programador. Sonho este, que venho postergando desde que conheci algoritmos lá no meu primeiro emprego de jovem aprendiz nos correios em meados de 2017, onde assisti um video do professor Guanabara sobre portugol... o que me fez da alguns passos para trás na minha jornada para me tornar um programador devido a procrastinação e a inconstancia nos estudos... Porém hoje, 04/08/2024 darei continuidade a essa saga! estudarei constantemende, nem que um pouco a cada dia, colocarei os códigos nessa plataforma, irei me aprofundar nas tecnologias e integrações entre ambas; e muito cedo me tornarei um Analista de dados!<br>- Acompanhem caros amigos! a essa incrível jornada da minha carreira!<br></p>
 </div>
+
 ###
+
 <p aligh="center"> EU ME TORNAREI UM PROGRAMADOR! </p>
 <h2 align="left">_made_in_bahia.br<br>- _programador_junior.exe<br>- _futudo_analista_de_dados.py<br>- _trying_to_hacking_too.bat</h2>
