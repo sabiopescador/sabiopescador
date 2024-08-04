@@ -31,10 +31,7 @@
 
 <br clear="both">
 
-<div style="display: flex;">
-  <img src="![bloggif_66afd8bf78b30](https://github.com/user-attachments/assets/99b3a767-3d77-4705-b7ef-4fdb8eb8e3ce)" width="150" height="150" style="margin-right: 10px;">
-  <img src="![3nRA](https://github.com/user-attachments/assets/d738acab-c0d4-414b-baa8-f6a383a769ad)" width="150" height="150">
-</div>
+
 ![bloggif_66afd8bf78b30](https://github.com/user-attachments/assets/99b3a767-3d77-4705-b7ef-4fdb8eb8e3ce)
 ![3nRA](https://github.com/user-attachments/assets/d738acab-c0d4-414b-baa8-f6a383a769ad)
 
