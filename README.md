@@ -83,6 +83,8 @@
 </div>
 
 ###
+<p style="text-align: justify;">Estudo programação e esse é meu github, fique a vontade para dar uma olhadinha nos meus códigos!</p>
+###
 
 <h2 style="color: #A5D6FF; align="left">_made_in_bahia.br<br>- _programador_junior.exe<br>- _futudo_analista_de_dados.py<br>- _trying_to_hacking_too.bat</h2> ponha os textos azul
 
