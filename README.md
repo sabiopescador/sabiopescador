@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-<div height="150">
+<div align="center" height="150">
   ![bloggif_66afd8bf78b30](https://github.com/user-attachments/assets/99b3a767-3d77-4705-b7ef-4fdb8eb8e3ce)
   ![3nRA](https://github.com/user-attachments/assets/d738acab-c0d4-414b-baa8-f6a383a769ad)
   ![WiCJ](https://github.com/user-attachments/assets/6b0c4704-d525-49e7-ba6e-1e7f302fb17b)
