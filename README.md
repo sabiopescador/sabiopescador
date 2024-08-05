@@ -53,7 +53,6 @@
   <img src="https://github.com/user-attachments/assets/d738acab-c0d4-414b-baa8-f6a383a769ad" alt="3nRA">
   <img src="https://github.com/user-attachments/assets/6b0c4704-d525-49e7-ba6e-1e7f302fb17b" alt="WiCJ">
   <img src="https://github.com/user-attachments/assets/7bd34895-6788-4148-b28a-75eecfee69af" alt="ZSjA" height="150em" >
-  <img src="https://github.com/user-attachments/assets/95a384ec-8230-4989-ab17-7bff94b077ea" alt="ZSjA" height="150em">
 </div>
 
 
@@ -61,10 +60,10 @@
 
 <div align="left">
   <a href="https://www.instagram.com/santos_temoteo/" target="_blank">
-    <img margin-right: 10px src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f9844a&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img style="margin-right: 10px;" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f9844a&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://wa.me/5574999015667" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+    <img style="margin-right: 10px;" src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
   <a href="https://discord.com/invite/Tt67T43Y" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
