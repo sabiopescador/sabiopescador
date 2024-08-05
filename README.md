@@ -76,9 +76,11 @@
 
 ###
 
-<p style="text-align: justify;">
-    - Eu me chamo Temóteo Santos, tenho 27 anos e um grande sonho de me tornar um programador. Sonho este, que venho postergando desde que conheci algoritmos lá no meu primeiro emprego de jovem aprendiz nos correios em meados de 2017, onde assisti um vídeo do professor Guanabara sobre portugol... o que me fez dar alguns passos para trás na minha jornada para me tornar um programador devido a procrastinação e a inconstância nos estudos... Porém hoje, 04/08/2024 darei continuidade a essa saga! Estudarei constantemente.
+<div align="center">
+  <p style="text-align: justify;">
+   - Eu me chamo Temóteo Santos, tenho 27 anos e um grande sonho de me tornar um programador. Sonho este, que venho postergando desde que conheci algoritmos lá no meu primeiro emprego de jovem aprendiz nos correios em meados de 2017, onde assisti um vídeo do professor        Guanabara sobre portugol... o que me fez dar alguns passos para trás na minha jornada para me tornar um programador devido a procrastinação e a inconstância nos estudos... Porém hoje, 04/08/2024 darei continuidade a essa saga! Estudarei constantemente.
 </p>
+</div>
 
 ###
 
