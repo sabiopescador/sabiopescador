@@ -23,19 +23,19 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg" height="35" alt="redhat logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="35" alt="git logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="35" alt="jupyter logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="35" alt="python logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" height="35" alt="anaconda logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" alt="mysql logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="35" alt="arduino logo"  />
 </div>
 
@@ -43,11 +43,12 @@
 
 <br clear="both">
 
-
-![bloggif_66afd8bf78b30](https://github.com/user-attachments/assets/99b3a767-3d77-4705-b7ef-4fdb8eb8e3ce)
-![3nRA](https://github.com/user-attachments/assets/d738acab-c0d4-414b-baa8-f6a383a769ad)
-![WiCJ](https://github.com/user-attachments/assets/6b0c4704-d525-49e7-ba6e-1e7f302fb17b)
-![ZSjA](https://github.com/user-attachments/assets/7bd34895-6788-4148-b28a-75eecfee69af)
+<div height="150">
+  ![bloggif_66afd8bf78b30](https://github.com/user-attachments/assets/99b3a767-3d77-4705-b7ef-4fdb8eb8e3ce)
+  ![3nRA](https://github.com/user-attachments/assets/d738acab-c0d4-414b-baa8-f6a383a769ad)
+  ![WiCJ](https://github.com/user-attachments/assets/6b0c4704-d525-49e7-ba6e-1e7f302fb17b)
+  ![ZSjA](https://github.com/user-attachments/assets/7bd34895-6788-4148-b28a-75eecfee69af)
+</div>
 
 ###
 
