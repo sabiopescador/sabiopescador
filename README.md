@@ -7,9 +7,9 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabiopescador&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" alt="stats graph" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sabiopescador&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" alt="stats graph" height="150em"/>
   
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiopescador&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150em" alt="languages graph"/>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiopescador&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150em" alt="languages graph"/>
 </div>
   
  
