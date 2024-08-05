@@ -84,6 +84,5 @@
 
 ###
 
- <p style="color: #A5D6FF; align: center;"> EU ME TORNAREI UM PROGRAMADOR!<h2> </p>
 <h2 style="color: #A5D6FF; align="left">_made_in_bahia.br<br>- _programador_junior.exe<br>- _futudo_analista_de_dados.py<br>- _trying_to_hacking_too.bat</h2> ponha os textos azul
 
