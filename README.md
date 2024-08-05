@@ -91,7 +91,7 @@
 
 ###
 
-<p>
+<p style="white-space: pre-wrap;">
   _made_in_bahia.br
   _programador_junior.exe
   _futuro_analista_de_dados.py
