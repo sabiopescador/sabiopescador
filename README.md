@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ff8800&center=true&vCenter=true&random=false&width=524&lines=✦+BEM+VINDOS+AO+MEU+PERFIL! :D +✦" alt="Typing SVG">
   </a>
@@ -7,7 +7,7 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 <div align="left">
-  <img style="margin: 180px;" src="https://github-readme-stats.vercel.app/api?username=sabiopescador&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img style="padding: 180px;" src="https://github-readme-stats.vercel.app/api?username=sabiopescador&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiopescador&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
