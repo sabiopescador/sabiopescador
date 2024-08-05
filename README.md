@@ -91,5 +91,10 @@
 
 ###
 
-<h2 style="color: #A5D6FF; align="left">_made_in_bahia.br<br>- _programador_junior.exe<br>- _futudo_analista_de_dados.py<br>- _trying_to_hacking_too.bat</h2> ponha os textos azul
+<p>
+  _made_in_bahia.br
+  _programador_junior.exe
+  _futuro_analista_de_dados.py
+  _trying_to_hacking_too.bat
+</p>
 
