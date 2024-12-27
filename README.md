@@ -92,10 +92,4 @@
 
 ###
 
-<p>
-  _made_in_bahia.br<br>
-  _programador_junior.exe<br>
-  _futuro_analista_de_dados.py<br>
-  _trying_to_hacking_too.bat<br>
-</p>
 
