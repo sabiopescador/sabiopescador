@@ -65,7 +65,7 @@
   </a>
 
   <a href="https://discord.com/invite/Tt67T43Y" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="40" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" width="70" height="40" alt="discord logo" />
   </a>
 
   <a href="https://www.linkedin.com/in/tem%C3%B3teo-santos-154834236/" target="_blank">
