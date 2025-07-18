@@ -1,7 +1,5 @@
   <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ff8800&center=true&vCenter=true&random=false&width=524&lines=✦+BEM+VINDOS+AO+MEU+PERFIL! :D +✦" alt="Typing SVG">
-  </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78900&width=435&lines=%E2%9C%A6%2BBEM%2BVINDOS%2BAO%2BMEU%2BPERFIL!+%3AD+%2B%E2%9C%A6" alt="Typing SVG" /></a>
 </div>
 
 <img align="center" alt="" src="./src/header-gif.gif">
@@ -59,16 +57,16 @@
 
 <div align="left">
   <a href="https://www.instagram.com/santos_temoteo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ffbd6b&logoColor=333333&labelColor=&style=for-the-badge" height="39" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ffbd6b&logoColor=333333&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
   <a href="https://wa.me/5574999015667" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   </a>
   <a href="https://discord.com/invite/Tt67T43Y" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/tem%C3%B3teo-santos-154834236" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
