@@ -56,19 +56,43 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/santos_temoteo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ffbd6b&logoColor=333333&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/5574999015667" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://discord.com/invite/Tt67T43Y" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/tem%C3%B3teo-santos-154834236" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
+  <table>
+    <tr>
+      <!-- Mew -->
+      <td align="center" style="padding: 20px;">
+        <img src="https://raw.githubusercontent.com/TemoteoSantos/teste-markdown/main/mew.gif" height="100"><br>
+        <a href="https://www.instagram.com/santos_temoteo/" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ffbd6b&logoColor=333333&style=for-the-badge" height="40" alt="instagram logo" />
+        </a>
+      </td>
+
+      <!-- Charizard -->
+      <td align="center" style="padding: 20px;">
+        <img src="https://raw.githubusercontent.com/TemoteoSantos/teste-markdown/main/charizard.gif" height="100"><br>
+        <a href="https://wa.me/5574999901566" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="40" alt="whatsapp logo" />
+        </a>
+      </td>
+
+      <!-- Gengar -->
+      <td align="center" style="padding: 20px;">
+        <img src="https://raw.githubusercontent.com/TemoteoSantos/teste-markdown/main/gengar.gif" height="100"><br>
+        <a href="https://discord.com/invite/Tt67T43Y" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="40" alt="discord logo" />
+        </a>
+      </td>
+
+      <!-- Pikachu -->
+      <td align="center" style="padding: 20px;">
+        <img src="https://raw.githubusercontent.com/TemoteoSantos/teste-markdown/main/pikachu.gif" height="100"><br>
+        <a href="https://www.linkedin.com/in/tem%C3%B3teo-santos-154834236/" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ###
 
