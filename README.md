@@ -55,7 +55,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/santos_temoteo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ffbd6b&logoColor=333333&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
