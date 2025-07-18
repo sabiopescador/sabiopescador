@@ -55,31 +55,19 @@
 
 ###
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.instagram.com/santos_temoteo/" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ffbd6b&logoColor=333333&style=for-the-badge" height="40" alt="instagram logo" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://wa.me/5574999901566" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="40" alt="whatsapp logo" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://discord.com/invite/Tt67T43Y" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="40" alt="discord logo" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/tem%C3%B3teo-santos-154834236/" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="padding: 20px;">
+  <a href="https://www.instagram.com/santos_temoteo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ffbd6b&logoColor=333333&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/5574999015667" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://discord.com/invite/Tt67T43Y" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/tem%C3%B3teo-santos-154834236" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 
