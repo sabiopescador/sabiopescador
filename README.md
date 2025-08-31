@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" width="180" height="40" alt="whatsapp logo" />
   </a>
 
-  <a href="https://discord.com/invite/Tt67T43Y" target="_blank">
+  <a href="https://discord.gg/tcY2CBP6" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" width="180" height="40" alt="discord logo" />
   </a>
 
