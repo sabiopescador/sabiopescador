@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ffbd6b&logoColor=333333&style=for-the-badge" width="180" height="40" alt="instagram logo" />
   </a>
 
-  <a href="https://wa.me/5574999901566" target="_blank">
+  <a href="https://wa.me/5574999177410" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" width="180" height="40" alt="whatsapp logo" />
   </a>
 
