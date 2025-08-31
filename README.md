@@ -83,7 +83,8 @@
 
 <div align="justify">
   <p style="text-align: justify; text-color: #270135;">
-   - Eu me chamo Temóteo Santos, tenho 27 anos e um grande sonho de ser um programador e viver disso, e eu serei.
+   - Eu me chamo Temóteo Primo, tenho grande sonho de ser um programador, e eu serei.
+   - Bem-vindos ao meu perfil.
 </p>
 </div>
 
