@@ -83,7 +83,7 @@
 
 <div align="justify">
   <p style="text-align: justify; text-color: #270135;">
-   - Eu me chamo Temóteo Primo, tenho grande sonho de ser um programador, e eu serei.
+   - Eu me chamo Temóteo Primo, tenho grande sonho de ser um programador, e eu serei. <br>
    - Bem-vindos ao meu perfil.
 </p>
 </div>
